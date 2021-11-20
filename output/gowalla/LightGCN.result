@@ -1,0 +1,2 @@
+embed_size=64, lr=0.0010, layer_size=[64,64,64], node_dropout=[0.1], mess_dropout=[0.1], regs=[1e-4], adj_type=pre
+	Best Iter=[4]@[11642.3]	recall=[0.08765], precision=[0.02425], ndcg=[0.06036]

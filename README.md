@@ -1,11 +1,15 @@
-# LightGCN
+# Weighted addition input matrix GCN (WiGCN)
+
+Two main contributions
+- Calculating the additional matrix
+- New model WiGCN.
+
 This is our Tensorflow implementation for our SIGIR 2020 paper:
 
 >Xiangnan He, Kuan Deng ,Xiang Wang, Yan Li, Yongdong Zhang, Meng Wang(2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation, [Paper in arXiv](https://arxiv.org/abs/2002.02126).
 
 Contributors: Dr. Xiangnan He (staff.ustc.edu.cn/~hexn/), Kuan Deng, Yingxin Wu.
 
-(We also provide Pytorch implementation for LightGCN : https://github.com/gusye1234/LightGCN-PyTorch. Contributors: Jianbai Ye.)
 
 ## Introduction
 In this work, we aim to simplify the design of GCN to make it more concise and appropriate for recommendation. We propose a new model named LightGCN, including only the most essential component in GCN—neighborhood aggregation—for collaborative filtering.

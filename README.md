@@ -4,7 +4,7 @@ Two main contributions
 - Calculating the additional matrix
 - New model WiGCN.
 
-This is our improvement Tensorflow based on code of 
+This is our improvement Tensorflow based on code of https://github.com/xiangwang1223/neural_graph_collaborative_filtering
 
 
 ## Introduction
